@@ -1,0 +1,37 @@
+Startup Profit Prediction – Machine Learning Project
+
+This project focuses on predicting the profit of a startup based on its R&D Spend, Administration cost, Marketing Spend, and State. The goal is to build an end-to-end machine learning solution that not only trains a model but also deploys it as a usable web application.
+
+What I did in this project:
+
+Loaded and explored the startup dataset
+
+Performed data preprocessing including one-hot encoding and feature scaling
+
+Trained a Decision Tree Regressor to predict profit
+
+Evaluated the model using the R² score
+
+Saved the trained model, scaler, and feature columns for deployment
+
+Built a Streamlit web application to make predictions interactively
+
+Tools and technologies used:
+
+Python
+
+Pandas and NumPy
+
+Scikit-learn
+
+Streamlit
+
+How to run the project:
+
+Install dependencies using requirements.txt
+
+Run the Gardio app
+
+Enter startup details to get the predicted profit
+
+This project demonstrates the complete machine learning lifecycle, from data preprocessing and model training to deployment, and serves as a practical example of how ML models can be used in real-world applications.
