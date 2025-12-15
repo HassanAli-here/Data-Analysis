@@ -22,7 +22,7 @@ Python
 
 Pandas and NumPy
 
-Scikit-learn
+Gardio
 
 Streamlit
 
